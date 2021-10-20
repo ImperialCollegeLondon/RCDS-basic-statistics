@@ -88,5 +88,10 @@ var( iris$sepal.length )
 
 ### The standard deviation
 ```
-std( iris$sepal.length )
+sd( iris$sepal.length )
+```
+
+### Pearson correlation
+```
+cor( iris$petal.length, iris$petal.width )
 ```
