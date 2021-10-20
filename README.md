@@ -13,3 +13,9 @@ On completion of this workshop you will be able to:
 *	Apply the normal distribution to answer questions about a population 
 *	Identify potential sources of bias in a scientific study
 
+## RStudio environment
+
+During the course, we will be looking at some examples of basic statistical functions in the R language. 
+
+You can access the RStudio environment online using Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnpinney/basic_statistics/main?urlpath=rstudio)
+
